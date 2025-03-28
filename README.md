@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thewrongman
-- 👀 I’m interested in Machine Learning @ Augmented Reality
-- 🌱 I’m currently learning AR & VR
+- 👋 Hi, I’m @YashavanthL
+- 👀 I’m interested in Machine Learning and Augmented Reality
+- 🌱 I’m currently learning Data Science and Machine Learning Technologies 
 - 💞️ I’m looking to collaborate on AR & VR technology
 - 📫 How to reach me yashvanthyuvi8055@gamil.com
 - 😄 Pronouns: ...
